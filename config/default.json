@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://social-media:1948@social-media-yb8bn.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://social-media:1948@social-media-yb8bn.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
 }
