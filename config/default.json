@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb://localhost:27017/social-network",
+  "mongoURI": "mongodb+srv://social-media:1948@social-media-yb8bn.mongodb.net/test?retryWrites=true",
 
   "jwtSecret": "mysecrettoken",
   "githubClientId": "0c73373c1377b16d13f9",
@@ -7,3 +7,4 @@
 }
 
 // "mongoURI": "mongodb+srv://social-media:1948@social-media-yb8bn.mongodb.net/test?retryWrites=true",
+//mongodb://localhost:27017/social-network
