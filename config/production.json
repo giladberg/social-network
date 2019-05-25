@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://social-media:1948@social-media-yb8bn.mongodb.net/test?retryWrites=true",
+
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0c73373c1377b16d13f9",
+  "githubSecret": "01a479e0bfca15d42090cf0bdcf50b422738004f"
+}
